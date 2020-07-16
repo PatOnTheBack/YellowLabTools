@@ -64,10 +64,10 @@
     "phantomas": "1.19.0",
     "ps-node": "0.1.6",
     "q": "1.5.1",
-    "request": "2.83.0",
+    "request": "2.88.0",
     "rimraf": "2.6.2",
     "temporary": "0.0.8",
-    "try-thread-sleep": "1.0.2",
+    "try-thread-sleep": "2.0.0",
     "uglify-js": "2.8.29"
   },
   "devDependencies": {
