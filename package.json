@@ -45,7 +45,7 @@
     "imagemin-jpegoptim": "5.2.0",
     "imagemin-jpegtran": "5.0.2",
     "imagemin-optipng": "5.2.1",
-    "imagemin-svgo": "6.0.0",
+    "imagemin-svgo": "9.0.0",
     "is-eot": "1.0.0",
     "is-gif": "1.0.0",
     "is-http2": "1.2.0",
