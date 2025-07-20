@@ -32,7 +32,7 @@
     "chart.js": "2.7.1",
     "clean-css": "4.1.9",
     "color-diff": "1.1.0",
-    "compression": "1.7.1",
+    "compression": "1.8.1",
     "cors": "2.8.4",
     "css-mq-parser": "0.0.3",
     "debug": "3.1.0",
